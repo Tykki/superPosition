@@ -1,0 +1,23 @@
+@import url("clouds.css");
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #809cc3;
+}
+
+.super-header{
+    overflow-x: hidden;
+    
+    /* text-align: center; */
+}
+
+.super-header img{
+    position: absolute;
+    width: 600px;
+    margin-top: 5%;
+    /* z-index: 20; */
+}
