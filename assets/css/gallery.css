@@ -1,0 +1,13 @@
+.image-g {
+    width: 40vmin;
+    position: absolute;
+    transform: translate(-50%, -50%);
+  }
+  
+  .image-g[data-status="inactive"] {
+    display: none;
+  }
+  
+  .image-g[data-status="active"] {
+    display: block;
+  }
