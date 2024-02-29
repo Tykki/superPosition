@@ -40,13 +40,6 @@
 				// Set image.
 					$this.style.backgroundImage = 'url('+ '"' + $img.src + '"' + ')';
 
-				// Set position.
-					// if (x = $img.data('position'))
-						// $image.css('background-position', x);
-
-				// Hide original.
-					// $image.hide();
-
 			// Link.
 			if ($link.length > 0) {
 
@@ -92,24 +85,6 @@
 			}
 
 		});
-
-	// // Header.
-	// 	if ($banner.length > 0
-	// 	&&	$header.classList.contains('alt')) {
-
-	// 		$window.addEventListener('resize', function() {
-	// 			$window.trigger('scroll');
-	// 		});
-
-	// 		$window.on('load', function() {
-
-	// 			window.setTimeout(function() {
-	// 				$window.triggerHandler('scroll');
-	// 			}, 100);
-
-	// 		});
-
-	// 	}
 
 
 
