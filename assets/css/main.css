@@ -1,11 +1,11 @@
 /* @import url(fontawesome-all.min.css); */
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
-@import './btn';
+@import './btn.css';
 /* @import './form'; */
-@import './icons';
-@import './menu';
-@import './tiles';
-@import './spotlight';
+@import './icons.css';
+@import './menu.css';
+@import './tiles.css';
+@import './spotlight.css';
 @import './superHead.css';
 
 
