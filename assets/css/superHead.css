@@ -205,22 +205,6 @@
             color: #8d82c4;
         }
 
-        #header.alt.style3 .logo strong {
-            color: #ec8d81;
-        }
-
-        #header.alt.style4 .logo strong {
-            color: #e7b788;
-        }
-
-        #header.alt.style5 .logo strong {
-            color: #8ea9e8;
-        }
-
-        #header.alt.style6 .logo strong {
-            color: #87c5a4;
-        }
-
     body.is-preload #header.alt {
         opacity: 0;
     }
@@ -426,6 +410,7 @@
             }
 
     #banner.major {
+        contain: content;
         height: 75vh;
         min-height: 30em;
         max-height: 50em;
